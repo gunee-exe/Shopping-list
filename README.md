@@ -7,7 +7,7 @@ A clean, modern grocery list app built with **Flutter** and **Firebase Realtime 
 ## 📹 Demo
 
 <p align="center">
-  <img src="assets/untitled2.gif" alt="App Demo" width="320"/>
+  <img src="untitled2.gif" alt="App Demo" width="320"/>
 </p>
 
 ---
